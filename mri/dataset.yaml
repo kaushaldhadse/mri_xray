@@ -1,0 +1,7 @@
+# Path
+train: D:/yolov8/mri/images/train
+val: D:/yolov8/mri/images/valid
+
+# Classes
+nc: 1
+names: ['Tumour']
